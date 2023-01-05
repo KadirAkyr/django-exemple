@@ -14,5 +14,5 @@
 - pip install -r requirements.txt
 
 ## Config then run server
-- pyhton manage.py createsuperuser
-- pyhton manage.py runserver
+- python manage.py createsuperuser
+- python manage.py runserver
